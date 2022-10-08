@@ -9,7 +9,7 @@ def main():
     txt=("""
 Jedi Face Detector.
 
-Siths are not allowed in the area.
+Test.
 
 [1]- Check if Jedi
 [2]- Exit
